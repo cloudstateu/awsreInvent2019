@@ -7,9 +7,9 @@
 | --- | --- | ---|
 | 06/11/19 | New – Savings Plans for AWS Compute Services | https://aws.amazon.com/blogs/aws/new-savings-plans-for-aws-compute-services/ |
 | 07/11/19 | AWS CLI v2 Preview Now Supports AWS Single Sign-On | https://aws.amazon.com/blogs/developer/aws-cli-v2-now-supports-aws-single-sign-on/ |
-| 09/11/19 | Cross-Account Cross-Region Dashboards with Amazon CloudWatch |https://aws.amazon.com/blogs/aws/cross-account-cross-region-dashboards-with-amazon-cloudwatch/ |
+| 09/11/19 | Cross-Account Cross-Region Dashboards with Amazon CloudWatch | https://aws.amazon.com/blogs/aws/cross-account-cross-region-dashboards-with-amazon-cloudwatch/ |
+| 13/11/19 | New – Import Existing Resources into a CloudFormation Stack | https://aws.amazon.com/blogs/aws/new-import-existing-resources-into-a-cloudformation-stack/ |
 | | | |
-
 <br>
 <br>
 
