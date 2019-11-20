@@ -1,5 +1,5 @@
 # AWS re:Invent 2019 - Announcements
-### The list of announcements before and durign AWS re:Invent in 2019
+### The list of the most interesting announcements before and during AWS re:Invent in 2019
 
 ---
 
@@ -12,6 +12,7 @@
 | 18/11/19 | Amazon EKS adds support for provisioning and managing Kubernetes worker nodes | https://aws.amazon.com/about-aws/whats-new/2019/11/amazon-eks-adds-support-for-provisioning-and-managing-kubernetes-worker-nodes/ |
 | 18/11/19 | CloudFormation Update – CLI + Third-Party Resource Support + Registry | https://aws.amazon.com/blogs/aws/cloudformation-update-cli-third-party-resource-support-registry/ |
 | 19/11/19 | New – Application Load Balancer Simplifies Deployment with Weighted Target Groups | https://aws.amazon.com/blogs/aws/new-application-load-balancer-simplifies-deployment-with-weighted-target-groups/ |
+| 19/11/19 | Add defense in depth against open firewalls, reverse proxies, and SSRF vulnerabilities with enhancements to the EC2 Instance Metadata Service | https://aws.amazon.com/blogs/security/defense-in-depth-open-firewalls-reverse-proxies-ssrf-vulnerabilities-ec2-instance-metadata-service/ |
 <br>
 <br>
 
