@@ -13,7 +13,12 @@
 | 18/11/19 | CloudFormation Update – CLI + Third-Party Resource Support + Registry | https://aws.amazon.com/blogs/aws/cloudformation-update-cli-third-party-resource-support-registry/ |
 | 19/11/19 | New – Application Load Balancer Simplifies Deployment with Weighted Target Groups | https://aws.amazon.com/blogs/aws/new-application-load-balancer-simplifies-deployment-with-weighted-target-groups/ |
 | 19/11/19 | Add defense in depth against open firewalls, reverse proxies, and SSRF vulnerabilities with enhancements to the EC2 Instance Metadata Service | https://aws.amazon.com/blogs/security/defense-in-depth-open-firewalls-reverse-proxies-ssrf-vulnerabilities-ec2-instance-metadata-service/ |
+| 19/11/19 | AWS Systems Manager Explorer – A Multi-Account, Multi-Region Operations Dashboard | https://aws.amazon.com/blogs/aws/aws-systems-manager-explorer-a-multi-account-multi-region-operations-dashboard/ |
+| 19/11/19 | New – Using Step Functions to Orchestrate Amazon EMR Workloads | https://aws.amazon.com/blogs/aws/new-using-step-functions-to-orchestrate-amazon-emr-workloads/ |
+| 20/11/19 | New – Amazon EBS Fast Snapshot Restore (FSR) | https://aws.amazon.com/blogs/aws/new-amazon-ebs-fast-snapshot-restore-fsr/ |
+| 20/11/19 | S3 Replication Update: Replication SLA, Metrics, and Events | https://aws.amazon.com/blogs/aws/s3-replication-update-replication-sla-metrics-and-events/ |
+| 20/11/19 | Welcome to AWS Storage Day | https://aws.amazon.com/blogs/aws/welcome-to-aws-storage-day/ |
 <br>
 <br>
 
-*Author: [Luke Dorosz](https://twitter.com/mrdoro)*
+*Author: [Luke Dorosz](https://twitter.com/mrdoro)* & [Przemek Malak](https://twitter.com/PrzemekM72)
