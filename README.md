@@ -18,6 +18,7 @@
 | 20/11/19 | New – Amazon EBS Fast Snapshot Restore (FSR) | https://aws.amazon.com/blogs/aws/new-amazon-ebs-fast-snapshot-restore-fsr/ |
 | 20/11/19 | S3 Replication Update: Replication SLA, Metrics, and Events | https://aws.amazon.com/blogs/aws/s3-replication-update-replication-sla-metrics-and-events/ |
 | 20/11/19 | Welcome to AWS Storage Day | https://aws.amazon.com/blogs/aws/welcome-to-aws-storage-day/ |
+| 20/11/19 | Use IAM to share your AWS resources with groups of AWS accounts in AWS Organizations | https://aws.amazon.com/about-aws/whats-new/2019/11/use-iam-share-aws-resources-with-groups-aws-accounts-aws-organizations/ |
 <br>
 <br>
 
