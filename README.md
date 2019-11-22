@@ -1,6 +1,7 @@
 # AWS re:Invent 2019 - Announcements
 ### The list of the most interesting announcements before and during AWS re:Invent in 2019
 
+![](img/picture.jpeg)
 ---
 
 | Date | News | Link |
