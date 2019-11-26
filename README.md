@@ -25,6 +25,7 @@
 | 21/11/19| EventBridge Support in Amazon Elastic Container Registry | https://aws.amazon.com/blogs/aws/eventbridge-support-in-amazon-elastic-container-registry/ |
 | 21/11/19 | New – Convert Your Single-Region Amazon DynamoDB Tables to Global Tables | https://aws.amazon.com/blogs/aws/new-convert-your-single-region-amazon-dynamodb-tables-to-global-tables/ | 
 | 21/11/19 | Announcing CloudTrail Insights: Identify and Respond to Unusual API Activity | https://aws.amazon.com/blogs/aws/announcing-cloudtrail-insights-identify-and-respond-to-unusual-api-activity/ | 
+| 21/11/19 | Announcing Amazon CloudWatch ServiceLens | https://aws.amazon.com/about-aws/whats-new/2019/11/announcing-amazon-cloudwatch-servicelens/ | 
 | 22/11/19 | New for Identity Federation – Use Employee Attributes for Access Control in AWS | https://aws.amazon.com/blogs/aws/new-for-identity-federation-use-employee-attributes-for-access-control-in-aws/ |
 | 22/11/19 | Using Spatial Data with Amazon Redshift | https://aws.amazon.com/blogs/aws/using-spatial-data-with-amazon-redshift/ |
 
