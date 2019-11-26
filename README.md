@@ -17,6 +17,7 @@
 | 19/11/19 | AWS Systems Manager Explorer – A Multi-Account, Multi-Region Operations Dashboard | https://aws.amazon.com/blogs/aws/aws-systems-manager-explorer-a-multi-account-multi-region-operations-dashboard/ |
 | 19/11/19 | New – Using Step Functions to Orchestrate Amazon EMR Workloads | https://aws.amazon.com/blogs/aws/new-using-step-functions-to-orchestrate-amazon-emr-workloads/ |
 | 19/11/19 | Amazon Connect Introduces Web & Mobile Chat for a True Omnichannel Contact Center Experience | https://aws.amazon.com/blogs/aws/new-omnichannel-contact-center-web-and-mobile-chat-for-amazon-connect/ |
+| 19/11/19 | AWS Lambda Supports Amazon SQS FIFO (First-In-First-Out) as an Event Source | https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-supports-amazon-sqs-fifo-event-source/ |
 | 20/11/19 | New – Amazon EBS Fast Snapshot Restore (FSR) | https://aws.amazon.com/blogs/aws/new-amazon-ebs-fast-snapshot-restore-fsr/ |
 | 20/11/19 | S3 Replication Update: Replication SLA, Metrics, and Events | https://aws.amazon.com/blogs/aws/s3-replication-update-replication-sla-metrics-and-events/ |
 | 20/11/19 | Welcome to AWS Storage Day | https://aws.amazon.com/blogs/aws/welcome-to-aws-storage-day/ |
