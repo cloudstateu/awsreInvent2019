@@ -28,6 +28,25 @@
 | 21/11/19 | Announcing Amazon CloudWatch ServiceLens | https://aws.amazon.com/about-aws/whats-new/2019/11/announcing-amazon-cloudwatch-servicelens/ | 
 | 22/11/19 | New for Identity Federation – Use Employee Attributes for Access Control in AWS | https://aws.amazon.com/blogs/aws/new-for-identity-federation-use-employee-attributes-for-access-control-in-aws/ |
 | 22/11/19 | Using Spatial Data with Amazon Redshift | https://aws.amazon.com/blogs/aws/using-spatial-data-with-amazon-redshift/ |
+| 25/11/19 | Visualize and Monitor Highly Distributed Applications with Amazon CloudWatch ServiceLens | https://aws.amazon.com/blogs/aws/visualize-and-monitor-highly-distributed-applications-with-amazon-cloudwatch-servicelens/ |
+| 25/11/19 | Announcing AWS Managed Rules for AWS WAF | https://aws.amazon.com/blogs/aws/announcing-aws-managed-rules-for-aws-waf/ |
+| 25/11/19 | Introducing Alexa Voice Service Integration for AWS IoT Core, a new way to cost-effectively bring Alexa Voice to any type of connected device | https://aws.amazon.com/blogs/iot/introducing-alexa-voice-service-integration-for-aws-iot-core/ |
+| 25/11/19 | AWS Cloud Development Kit (CDK) – Java and .NET are Now Generally Available | https://aws.amazon.com/blogs/aws/aws-cloud-development-kit-cdk-java-and-net-are-now-generally-available/ |
+| 25/11/19 | Welcome to AWS IoT Day – Eight Powerful New Features | https://aws.amazon.com/blogs/aws/welcome-to-aws-iot-day/ |
+| 25/11/19 | New – AWS IoT Greengrass Adds Container Support and Management of Data Streams at the Edge | https://aws.amazon.com/blogs/aws/new-aws-iot-greengrass-adds-docker-support-and-streams-management-at-the-edge/ |
+| 26/11/19 | AWS Load Balancer Update – Lots of New Features for You! | https://aws.amazon.com/blogs/aws/aws-load-balancer-update-lots-of-new-features-for-you/ |
+| 26/11/19 | New – Use Tag Policies to Manage Tags Across Multiple AWS Accounts | https://aws.amazon.com/blogs/aws/new-use-tag-policies-to-manage-tags-across-multiple-aws-accounts/ |
+| 26/11/19 | New for Amazon Aurora – Use Machine Learning Directly From Your Databases | https://aws.amazon.com/blogs/aws/new-for-amazon-aurora-use-machine-learning-directly-from-your-databases/ |
+| 27/11/19 | AWS DeepRacer Update – New Features & New Racing Opportunities | https://aws.amazon.com/blogs/aws/aws-deepracer-update-new-features-new-racing-opportunities/ |
+
+<br>
+
+---
+## re:Invent News
+
+| Date | News | Link |
+| --- | --- | ---|
+| | | |
 
 
 <br>
