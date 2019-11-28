@@ -37,6 +37,7 @@
 | 26/11/19 | AWS Load Balancer Update – Lots of New Features for You! | https://aws.amazon.com/blogs/aws/aws-load-balancer-update-lots-of-new-features-for-you/ |
 | 26/11/19 | New – Use Tag Policies to Manage Tags Across Multiple AWS Accounts | https://aws.amazon.com/blogs/aws/new-use-tag-policies-to-manage-tags-across-multiple-aws-accounts/ |
 | 26/11/19 | New for Amazon Aurora – Use Machine Learning Directly From Your Databases | https://aws.amazon.com/blogs/aws/new-for-amazon-aurora-use-machine-learning-directly-from-your-databases/ |
+| 26/11/19 | AWS Lambda Supports Destinations for Asynchronous Invocations | https://aws.amazon.com/about-aws/whats-new/2019/11/aws-lambda-supports-destinations-for-asynchronous-invocations/ |
 | 27/11/19 | AWS DeepRacer Update – New Features & New Racing Opportunities | https://aws.amazon.com/blogs/aws/aws-deepracer-update-new-features-new-racing-opportunities/ |
 
 <br>
