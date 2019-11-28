@@ -38,6 +38,7 @@
 | 26/11/19 | New – Use Tag Policies to Manage Tags Across Multiple AWS Accounts | https://aws.amazon.com/blogs/aws/new-use-tag-policies-to-manage-tags-across-multiple-aws-accounts/ |
 | 26/11/19 | New for Amazon Aurora – Use Machine Learning Directly From Your Databases | https://aws.amazon.com/blogs/aws/new-for-amazon-aurora-use-machine-learning-directly-from-your-databases/ |
 | 27/11/19 | AWS DeepRacer Update – New Features & New Racing Opportunities | https://aws.amazon.com/blogs/aws/aws-deepracer-update-new-features-new-racing-opportunities/ |
+| 27/11/19 | The Next Evolution in AWS Single Sign-On | https://aws.amazon.com/blogs/aws/the-next-evolution-in-aws-single-sign-on/ |
 
 <br>
 
