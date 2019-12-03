@@ -57,6 +57,8 @@
 | 02/12/19 | New AWS Program to Help Future-proof Your End-of-Support Windows Server Applications | https://aws.amazon.com/blogs/aws/new-program-to-future-proof-windows-server-applications/ |
 | 02/12/19 | Amazon Transcribe Medical – Real-Time Automatic Speech Recognition for Healthcare Customers | https://aws.amazon.com/blogs/aws/amazon-transcribe-medical-real-time-automatic-speech-recognition-for-healthcare-customers/ |
 | 02/12/19 | Introducing Amazon SageMaker Operators for Kubernetes | https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-operators-for-kubernetes/ |
+| 02/12/19 | Identify Unintended Resource Access with AWS Identity and Access Management (IAM) Access Analyzer | https://aws.amazon.com/blogs/aws/identify-unintended-resource-access-with-aws-identity-and-access-management-iam-access-analyzer/ |
+| 02/12/19 | Amazon Braket – Get Started with Quantum Computing | https://aws.amazon.com/blogs/aws/amazon-braket-get-started-with-quantum-computing/ |
 
 
 
