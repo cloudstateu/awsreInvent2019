@@ -59,6 +59,7 @@
 | 02/12/19 | Introducing Amazon SageMaker Operators for Kubernetes | https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-operators-for-kubernetes/ |
 | 02/12/19 | Identify Unintended Resource Access with AWS Identity and Access Management (IAM) Access Analyzer | https://aws.amazon.com/blogs/aws/identify-unintended-resource-access-with-aws-identity-and-access-management-iam-access-analyzer/ |
 | 02/12/19 | Amazon Braket – Get Started with Quantum Computing | https://aws.amazon.com/blogs/aws/amazon-braket-get-started-with-quantum-computing/ |
+<<<<<<< HEAD
 | 03/12/19 | AWS Outposts Now Available – Order Your Racks Today | https://aws.amazon.com/blogs/aws/aws-outposts-now-available-order-your-racks-today/ |
 | 03/12/19 | Inf1 Instances with AWS Inferentia Chips for High Performance Cost-Effective Inferencing | https://aws.amazon.com/blogs/aws/amazon-ec2-update-inf1-instances-with-aws-inferentia-chips-for-high-performance-cost-effective-inferencing/ |
 | 03/12/19 | EBS Direct APIs – Programmatic Access to EBS Snapshot Content | https://aws.amazon.com/blogs/aws/new-programmatic-access-to-ebs-snapshot-content/ |
@@ -94,6 +95,9 @@
 | 03/12/19 | Amazon CodeGuru - Preview | https://aws.amazon.com/codeguru/ |
 | 03/12/19 | Amazon RDS Proxy | http://aws.amazon.com/rds/proxy |
 
+=======
+| 03/12/19 | Amazon EKS on AWS Fargate Now Generally Available| https://aws.amazon.com/blogs/aws/amazon-eks-on-aws-fargate-now-generally-available/ |
+>>>>>>> c76ebf90a2f5ebee098fcd014bb54284065c9934
 
 
 
