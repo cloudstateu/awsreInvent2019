@@ -59,6 +59,42 @@
 | 02/12/19 | Introducing Amazon SageMaker Operators for Kubernetes | https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-operators-for-kubernetes/ |
 | 02/12/19 | Identify Unintended Resource Access with AWS Identity and Access Management (IAM) Access Analyzer | https://aws.amazon.com/blogs/aws/identify-unintended-resource-access-with-aws-identity-and-access-management-iam-access-analyzer/ |
 | 02/12/19 | Amazon Braket – Get Started with Quantum Computing | https://aws.amazon.com/blogs/aws/amazon-braket-get-started-with-quantum-computing/ |
+| 03/12/19 | AWS Outposts Now Available – Order Your Racks Today | https://aws.amazon.com/blogs/aws/aws-outposts-now-available-order-your-racks-today/ |
+| 03/12/19 | Inf1 Instances with AWS Inferentia Chips for High Performance Cost-Effective Inferencing | https://aws.amazon.com/blogs/aws/amazon-ec2-update-inf1-instances-with-aws-inferentia-chips-for-high-performance-cost-effective-inferencing/ |
+| 03/12/19 | EBS Direct APIs – Programmatic Access to EBS Snapshot Content | https://aws.amazon.com/blogs/aws/new-programmatic-access-to-ebs-snapshot-content/ |
+| 03/12/19 | AWS Compute Optimizer – Your Customized Resource Optimization Service | https://aws.amazon.com/blogs/aws/aws-compute-optimizer-your-customized-resource-optimization-service/ |
+| 03/12/19 | Amazon EKS on AWS Fargate Now Generally Available | https://aws.amazon.com/blogs/aws/amazon-eks-on-aws-fargate-now-generally-available/ |
+| 03/12/19 | AWS Fargate Spot Now Generally Available | https://aws.amazon.com/blogs/aws/aws-fargate-spot-now-generally-available/ |
+| 03/12/19 | ECS Cluster Auto Scaling is Now Generally Available | https://aws.amazon.com/blogs/aws/aws-ecs-cluster-auto-scaling-is-now-generally-available/ | 
+| 03/12/19 | Easily Manage Shared Data Sets with Amazon S3 Access Points | https://aws.amazon.com/blogs/aws/easily-manage-shared-data-sets-with-amazon-s3-access-points/ | 
+| 03/12/19 | Amazon Redshift Update – Next-Generation Compute Instances and Managed, Analytics-Optimized Storage | https://aws.amazon.com/blogs/aws/amazon-redshift-update-next-generation-compute-instances-and-managed-analytics-optimized-storage/ |
+| 03/12/19 | Amazon Redshift – Data Lake Export and Federated Queries | https://aws.amazon.com/blogs/aws/new-for-amazon-redshift-data-lake-export-and-federated-queries/ |
+| 03/12/19 | Amazon Rekognition Custom Labels | https://aws.amazon.com/blogs/machine-learning/announcing-amazon-rekognition-custom-labels/ | 
+| 03/12/19 | Amazon SageMaker Studio: The First Fully Integrated Development Environment For Machine Learning | https://aws.amazon.com/blogs/aws/amazon-sagemaker-studio-the-first-fully-integrated-development-environment-for-machine-learning/ |
+| 03/12/19 | Amazon SageMaker Model Monitor – Fully Managed Automatic Monitoring For Your Machine Learning Models | https://aws.amazon.com/blogs/aws/amazon-sagemaker-model-monitor-fully-managed-automatic-monitoring-for-your-machine-learning-models/ |
+| 03/12/19 | Amazon SageMaker Experiments – Organize, Track And Compare Your Machine Learning Trainings | https://aws.amazon.com/blogs/aws/amazon-sagemaker-experiments-organize-track-and-compare-your-machine-learning-trainings/ |
+| 03/12/19 | Amazon SageMaker Debugger – Debug Your Machine Learning Models | https://aws.amazon.com/blogs/aws/amazon-sagemaker-debugger-debug-your-machine-learning-models/ |
+| 03/12/19 | Amazon SageMaker Autopilot – Automatically Create High-Quality Machine Learning Models | https://aws.amazon.com/blogs/aws/amazon-sagemaker-autopilot-fully-managed-automatic-machine-learning/ |
+| 03/12/19 | Now Available on Amazon SageMaker: The Deep Graph Library | https://aws.amazon.com/blogs/aws/now-available-on-amazon-sagemaker-the-deep-graph-library/ |
+|03/12/19 | Amazon SageMaker Processing – Fully Managed Data Processing and Model Evaluation | https://aws.amazon.com/blogs/aws/amazon-sagemaker-processing-fully-managed-data-processing-and-model-evaluation/ |
+| 03/12/19 | Deep Java Library (DJL) | https://towardsdatascience.com/introducing-deep-java-library-djl-9de98de8c6ca |
+| 03/12/19 | AWS Now Available from a Local Zone in Los Angeles | https://aws.amazon.com/blogs/aws/aws-now-available-from-a-local-zone-in-los-angeles/ |
+| 03/12/19 | Lambda Provisioned Concurrency | https://aws.amazon.com/blogs/aws/new-provisioned-concurrency-for-lambda-functions |
+| 03/12/19 | AWS Step Functions Express Workflows: High Performance & Low Cost | https://aws.amazon.com/blogs/aws/new-aws-step-functions-express-workflows-high-performance-low-cost/ |
+| 03/12/19 | AWS Transit Gateway – Build Global Networks and Centralize Monitoring Using Network Manager | https://aws.amazon.com/blogs/aws/new-for-aws-transit-gateway-build-global-networks-and-centralize-monitoring-using-network-manager/ |
+| 03/12/19 | AWS Transit Gateway Adds Multicast and Inter-regional Peering | https://aws.amazon.com/blogs/aws/aws-transit-gateway-adds-multicast-and-inter-regional-peering/ |
+| 03/12/19 | VPC Ingress Routing – Simplifying Integration of Third-Party Appliances | https://aws.amazon.com/blogs/aws/new-vpc-ingress-routing-simplifying-integration-of-third-party-appliances/ |
+| 03/12/19 | Amazon Chime Meeting Regions | https://aws.amazon.com/blogs/business-productivity/amazon-chime-meetings-14-aws-regions/ |
+| 03/12/19 | AWS Wavelength - Preview | https://aws.amazon.com/wavelength/ |
+| 03/12/19 | New – Amazon Managed Apache Cassandra Service (MCS) - Preview | https://aws.amazon.com/blogs/aws/new-amazon-managed-apache-cassandra-service-mcs/ |
+| 03/12/19 | Coming Soon – Graviton2-Powered General Purpose, Compute-Optimized, & Memory-Optimized EC2 Instances | https://aws.amazon.com/blogs/aws/coming-soon-graviton2-powered-general-purpose-compute-optimized-memory-optimized-ec2-instances/ |
+| 03/12/19 | Amazon Fraud Detector - Preview | http://aws.amazon.com/fraud-detector |
+| 03/12/19 | Amazon Kendra - Preview | https://aws.amazon.com/kendra |
+| 03/12/19 | Contact Lens for Amazon Connect Preview | https://pages.awscloud.com/contact-lens-preview.html |
+| 03/12/19 | Amazon CodeGuru - Preview | https://aws.amazon.com/codeguru/ |
+| 03/12/19 | Amazon RDS Proxy | http://aws.amazon.com/rds/proxy |
+
+
 
 
 
