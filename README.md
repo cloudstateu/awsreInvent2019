@@ -97,11 +97,7 @@
 | 04/12/19 | Announcing HTTP APIs for Amazon API Gateway - (Preview) | https://aws.amazon.com/blogs/compute/announcing-http-apis-for-amazon-api-gateway/ |
 | 04/12/19 | Introducing Amplify for iOS and Android | https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-amplify-for-ios-and-android/ |
 | 04/12/19 | Announcing the Amazon Chime Meetings App for Slack | https://aws.amazon.com/blogs/business-productivity/announcing-amazon-chime-meetings-app-for-slack/ |
-
-
-
-
-
+| 05/12/19 | Check out The Amazon Builders’ Library – This is How We Do It! | https://aws.amazon.com/blogs/aws/check-out-the-amazon-builders-library-this-is-how-we-do-it/ |
 
 <br>
 <br>
