@@ -93,6 +93,11 @@
 | 03/12/19 | Contact Lens for Amazon Connect Preview | https://pages.awscloud.com/contact-lens-preview.html |
 | 03/12/19 | Amazon CodeGuru - Preview | https://aws.amazon.com/codeguru/ |
 | 03/12/19 | Amazon RDS Proxy | http://aws.amazon.com/rds/proxy |
+| 04/12/19 | Amplify DataStore – Simplify Development of Offline Apps with GraphQL | https://aws.amazon.com/blogs/aws/amplify-datastore-simplify-development-of-offline-apps-with-graphql/ |
+| 04/12/19 | Amazon API Gateway Offers Faster, Cheaper, Simpler APIs Using HTTP APIs (Preview) | https://aws.amazon.com/about-aws/whats-new/2019/12/amazon-api-gateway-offers-faster-cheaper-simpler-apis-using-http-apis-preview/ |
+| 04/12/19 | Introducing Amplify for iOS and Android | https://aws.amazon.com/about-aws/whats-new/2019/12/introducing-amplify-for-ios-and-android/ |
+| 04/12/19 | Announcing the Amazon Chime Meetings App for Slack | https://aws.amazon.com/blogs/business-productivity/announcing-amazon-chime-meetings-app-for-slack/ |
+
 
 
 
